@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463175118090-40t6r2mtg0gnrvd10te5bplg94htp11a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463175118090-40t6r2mtg0gnrvd10te5bplg94htp11a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdaODvs3XQQ6YvtZk6sHWCcgDqFmL1t38</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463175118090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Pavel.M.CardsCourse</string>
+	<key>PROJECT_ID</key>
+	<string>cardsmatchfirebase-1a9ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cardsmatchfirebase-1a9ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463175118090:ios:4b9c591edd414b29</string>
+	<key>DATABASE_URL</key>
+	<string>https://cardsmatchfirebase-1a9ac.firebaseio.com</string>
+</dict>
+</plist>
